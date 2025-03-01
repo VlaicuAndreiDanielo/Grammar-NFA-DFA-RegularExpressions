@@ -1,0 +1,1 @@
+﻿aa*|ab(ac*|bcc)*(acc|a)*
