@@ -1,4 +1,4 @@
-# Grammar to NFA to DFA  
+# Grammar/NFA/DFA/Regular Expression
 
 ## 📌 Overview  
 This project focuses on transforming a **regular expression** into different representations, ultimately constructing a **Deterministic Finite Automaton (DFA)**. The process follows these steps:  
